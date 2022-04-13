@@ -8,4 +8,4 @@
         state: started
 
     - name: pull docker image
-      shell: docker pull kushal1708/miniproject
+      shell: docker pull kushal1708/miniproject:v1
