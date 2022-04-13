@@ -15,7 +15,7 @@ public class Calculator {
         do{
 
             System.out.println("Enter your choice");
-            System.out.println("1.Factorial\n2.Square Root");
+            System.out.println("1.Factorial\n2.Square Root\n3.Power of two number");
             int opt;
             try{
                 opt= scanner.nextInt();
@@ -42,6 +42,7 @@ public class Calculator {
                 System.out.println(n1+ "power "+n2+" is : " + calculator.power(n1, n2));
                 System.out.println("\n");
                 break;
+            case 4:
 
             default:System.out.println("exiting calculator");
             return;
