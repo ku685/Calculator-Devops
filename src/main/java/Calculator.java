@@ -1,8 +1,13 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+
 
 public class Calculator {
 
+    private static final Logger logger = LogManager.getLogger(Calculator.class);
     public Calculator() {
     }
     public static  void main(String[] args)
@@ -57,6 +62,7 @@ public class Calculator {
 
     public double naturalLog(double n1) {
 
+        logger.info("[Naturallog ]-"+n1);
         double result = 0;
         try {
 
@@ -70,25 +76,31 @@ public class Calculator {
         } catch (ArithmeticException error) {
             System.out.println(" Cannot find log of negative numbers " + error.getLocalizedMessage());
         }
-
+        logger.info("[result]-"+result);
         return result;
     }
 
     public double power(double n1, double n2) {
+        logger.info("[power]-"+n1+"[to]-"+n2);
         double ans =Math.pow(n1,n2);
+        logger.info("[result]-"+ans);
         return ans;
     }
 
     public double squareroot(double n1) {
+        logger.info("[squareroot]-"+n1);
         double ans = Math.sqrt(n1);
+        logger.info("[result]-"+ans);
         return ans;
     }
 
     public double factorial(double ny)
         {
+            logger.info("[factorial]-"+ny);
             double result=1 ;
             for(int i = 1; i <= ny; ++i)
             { result *= i;   }
+            logger.info("[result]-"+result);
             return result;
         }
 
