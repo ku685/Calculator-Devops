@@ -18,6 +18,17 @@ public class TestCasesForCalculator {
         assertNotEquals("Finding factorial of a number for False Positive", 25, calculator.factorial(4), BETA);
     }
 
+    @Test
+    public void squarerootTruePositive(){
+        assertEquals("Finding squarerrot of a number for True Positive", 3, calculator.squareroot(9), BETA);
+        assertEquals("Finding squareroot of a number for True Positive", 11, calculator.squareroot(121), BETA);
+    }
+
+    @Test
+    public void squarerootFalsePositive(){
+        assertNotEquals("Finding factorial of a number for False Positive", 121, calculator.squareroot(7), BETA);
+        assertNotEquals("Finding factorial of a number for False Positive", 25, calculator.squareroot(4), BETA);
+    }
 
 
 
