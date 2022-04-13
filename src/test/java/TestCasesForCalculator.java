@@ -26,7 +26,7 @@ public class TestCasesForCalculator {
 
     @Test
     public void squarerootFalsePositive(){
-        assertNotEquals("Finding factorial of a number for False Positive", 121, calculator.squareroot(7), BETA);
+        assertNotEquals("Finding factorial of a number for False Positive", 122, calculator.squareroot(7), BETA);
         assertNotEquals("Finding factorial of a number for False Positive", 25, calculator.squareroot(4), BETA);
     }
 
