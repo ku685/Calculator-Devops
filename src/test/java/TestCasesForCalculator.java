@@ -42,5 +42,16 @@ public class TestCasesForCalculator {
         assertNotEquals("Finding power of a number for False Positive", 25, calculator.power(2,5), BETA);
     }
 
+    @Test
+    public void LogarithmTruePositive(){
+        assertEquals("Finding logarithm of a number for True Positive", 0, calculator.naturalLog(1), BETA);
+        assertEquals("Finding logarithm of a number for True Positive", 0.693, calculator.naturalLog(2), BETA);
+    }
+
+    @Test
+    public void LogarithmFalsePositive(){
+        assertNotEquals("Finding logarithm of a number for False Positive", 122, calculator.naturalLog(4), BETA);
+        assertNotEquals("Finding logarithm of a number for False Positive", 25, calculator.naturalLog(5), BETA);
+    }
 
 }

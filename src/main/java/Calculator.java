@@ -15,7 +15,7 @@ public class Calculator {
         do{
 
             System.out.println("Enter your choice");
-            System.out.println("1.Factorial\n2.Square Root\n3.Power of two number");
+            System.out.println("1.Factorial\n2.Square Root\n3.Power of two number\n4.Natural Log ");
             int opt;
             try{
                 opt= scanner.nextInt();
@@ -42,12 +42,36 @@ public class Calculator {
                 System.out.println(n1+ "power "+n2+" is : " + calculator.power(n1, n2));
                 System.out.println("\n");
                 break;
-            case 4:
+            case 4:  System.out.print("Enter a number : ");
+                n1 = scanner.nextDouble();
+                System.out.println("Natural log of "+n1+" is : " + calculator.naturalLog(n1));
+                System.out.println("\n");
+
+                break;
 
             default:System.out.println("exiting calculator");
             return;
         }
         }while(true);
+    }
+
+    public double naturalLog(double n1) {
+
+        double result = 0;
+        try {
+
+            if (n1 <0 ) {
+                result = Double.NaN;
+                throw new ArithmeticException("Case of NaN 0.0/0.0");
+            }
+            else {
+                result = Math.log(n1);
+            }
+        } catch (ArithmeticException error) {
+            System.out.println(" Cannot find log of negative numbers " + error.getLocalizedMessage());
+        }
+
+        return result;
     }
 
     public double power(double n1, double n2) {
