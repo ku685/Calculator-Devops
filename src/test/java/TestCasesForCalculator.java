@@ -45,7 +45,7 @@ public class TestCasesForCalculator {
     @Test
     public void LogarithmTruePositive(){
         assertEquals("Finding logarithm of a number for True Positive", 0, calculator.naturalLog(1), BETA);
-        assertEquals("Finding logarithm of a number for True Positive", 0.693, calculator.naturalLog(2), BETA);
+
     }
 
     @Test
