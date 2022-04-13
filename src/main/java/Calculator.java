@@ -33,11 +33,25 @@ public class Calculator {
             case 2:System.out.println("Enter Number");
             n1=scanner.nextDouble();
             System.out.println("Square Root of"+n1+" "+"is:"+calculator.squareroot(n1)+"\n");
+            break;
+            case 3:  // find power
+                System.out.print("Enter  number 1 : ");
+                n1 = scanner.nextDouble();
+                System.out.print("Enter  number  2: ");
+                n2 = scanner.nextDouble();
+                System.out.println(n1+ "power "+n2+" is : " + calculator.power(n1, n2));
+                System.out.println("\n");
+                break;
 
             default:System.out.println("exiting calculator");
             return;
         }
         }while(true);
+    }
+
+    public double power(double n1, double n2) {
+        double ans =Math.pow(n1,n2);
+        return ans;
     }
 
     public double squareroot(double n1) {

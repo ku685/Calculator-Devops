@@ -26,10 +26,21 @@ public class TestCasesForCalculator {
 
     @Test
     public void squarerootFalsePositive(){
-        assertNotEquals("Finding factorial of a number for False Positive", 121, calculator.squareroot(7), BETA);
-        assertNotEquals("Finding factorial of a number for False Positive", 25, calculator.squareroot(4), BETA);
+        assertNotEquals("Finding squareroot of a number for False Positive", 122, calculator.squareroot(7), BETA);
+        assertNotEquals("Finding squarerrot of a number for False Positive", 25, calculator.squareroot(4), BETA);
     }
 
+    @Test
+    public void powerTruePositive(){
+        assertEquals("Finding power of a number for True Positive", 27, calculator.power(3,3), BETA);
+        assertEquals("Finding power of a number for True Positive", 32, calculator.power(2,5), BETA);
+    }
+
+    @Test
+    public void powerFalsePositive(){
+        assertNotEquals("Finding power of a number for False Positive", 122, calculator.power(3,3), BETA);
+        assertNotEquals("Finding power of a number for False Positive", 25, calculator.power(2,5), BETA);
+    }
 
 
 }
