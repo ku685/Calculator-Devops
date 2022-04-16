@@ -66,3 +66,5 @@
 2022-04-16 22:07:27.825 [main] INFO  Calculator - [result]-125.0
 2022-04-16 22:07:35.829 [main] INFO  Calculator - [Naturallog ]-9.0
 2022-04-16 22:07:35.830 [main] INFO  Calculator - [result]-2.1972245773362196
+2022-04-17 00:15:14.477 [main] INFO  Calculator - [factorial]-10.0
+2022-04-17 00:15:14.481 [main] INFO  Calculator - [result]-3628800.0

@@ -20,7 +20,7 @@ public class Calculator {
         do{
 
             System.out.println("Enter your choice");
-            System.out.println("1.Factorial\n2.Square Root\n3.Power of two number\n4.Natural Log ");
+            System.out.println("1.Factorial\n2.Square Root\n3.Power of two number\n4.Natural Log \n5.EXIT");
             int opt;
             try{
                 opt= scanner.nextInt();
@@ -54,7 +54,7 @@ public class Calculator {
 
                 break;
 
-            default:System.out.println("exiting calculator");
+            default:System.out.println("Terminating  calculator Application");
             return;
         }
         }while(true);
