@@ -126,3 +126,119 @@
 2022-04-17 22:21:06.271 [main] INFO  calculator.Calculator - [result]-1.9459101490553132
 2022-04-17 22:21:06.271 [main] INFO  calculator.Calculator - [Naturallog ]-8.0
 2022-04-17 22:21:06.271 [main] INFO  calculator.Calculator - [result]-2.0794415416798357
+2022-04-17 22:31:21.117 [main] INFO  calculator.Calculator - [factorial]-7.0
+2022-04-17 22:31:21.118 [main] INFO  calculator.Calculator - [result]-5040.0
+2022-04-17 22:31:21.118 [main] INFO  calculator.Calculator - [factorial]-4.0
+2022-04-17 22:31:21.118 [main] INFO  calculator.Calculator - [result]-24.0
+2022-04-17 22:31:21.119 [main] INFO  calculator.Calculator - [factorial]-3.0
+2022-04-17 22:31:21.119 [main] INFO  calculator.Calculator - [result]-6.0
+2022-04-17 22:31:21.119 [main] INFO  calculator.Calculator - [factorial]-6.0
+2022-04-17 22:31:21.119 [main] INFO  calculator.Calculator - [result]-720.0
+2022-04-17 22:31:21.120 [main] INFO  calculator.Calculator - [squareroot]-9.0
+2022-04-17 22:31:21.120 [main] INFO  calculator.Calculator - [result]-3.0
+2022-04-17 22:31:21.120 [main] INFO  calculator.Calculator - [squareroot]-121.0
+2022-04-17 22:31:21.120 [main] INFO  calculator.Calculator - [result]-11.0
+2022-04-17 22:31:21.120 [main] INFO  calculator.Calculator - [squareroot]-16.0
+2022-04-17 22:31:21.120 [main] INFO  calculator.Calculator - [result]-4.0
+2022-04-17 22:31:21.120 [main] INFO  calculator.Calculator - [squareroot]-25.0
+2022-04-17 22:31:21.121 [main] INFO  calculator.Calculator - [result]-5.0
+2022-04-17 22:31:21.121 [main] INFO  calculator.Calculator - [squareroot]-7.0
+2022-04-17 22:31:21.121 [main] INFO  calculator.Calculator - [result]-2.6457513110645907
+2022-04-17 22:31:21.121 [main] INFO  calculator.Calculator - [squareroot]-4.0
+2022-04-17 22:31:21.122 [main] INFO  calculator.Calculator - [result]-2.0
+2022-04-17 22:31:21.122 [main] INFO  calculator.Calculator - [squareroot]-5.0
+2022-04-17 22:31:21.122 [main] INFO  calculator.Calculator - [result]-2.23606797749979
+2022-04-17 22:31:21.122 [main] INFO  calculator.Calculator - [squareroot]-6.0
+2022-04-17 22:31:21.122 [main] INFO  calculator.Calculator - [result]-2.449489742783178
+2022-04-17 22:31:21.123 [main] INFO  calculator.Calculator - [Naturallog ]-1.0
+2022-04-17 22:31:21.123 [main] INFO  calculator.Calculator - [result]-0.0
+2022-04-17 22:31:21.123 [main] INFO  calculator.Calculator - [factorial]-6.0
+2022-04-17 22:31:21.123 [main] INFO  calculator.Calculator - [result]-720.0
+2022-04-17 22:31:21.123 [main] INFO  calculator.Calculator - [factorial]-3.0
+2022-04-17 22:31:21.124 [main] INFO  calculator.Calculator - [result]-6.0
+2022-04-17 22:31:21.124 [main] INFO  calculator.Calculator - [factorial]-2.0
+2022-04-17 22:31:21.124 [main] INFO  calculator.Calculator - [result]-2.0
+2022-04-17 22:31:21.124 [main] INFO  calculator.Calculator - [factorial]-4.0
+2022-04-17 22:31:21.124 [main] INFO  calculator.Calculator - [result]-24.0
+2022-04-17 22:31:21.124 [main] INFO  calculator.Calculator - [power]-3.0[to]-3.0
+2022-04-17 22:31:21.124 [main] INFO  calculator.Calculator - [result]-27.0
+2022-04-17 22:31:21.125 [main] INFO  calculator.Calculator - [power]-2.0[to]-5.0
+2022-04-17 22:31:21.125 [main] INFO  calculator.Calculator - [result]-32.0
+2022-04-17 22:31:21.125 [main] INFO  calculator.Calculator - [power]-3.0[to]-1.0
+2022-04-17 22:31:21.125 [main] INFO  calculator.Calculator - [result]-3.0
+2022-04-17 22:31:21.125 [main] INFO  calculator.Calculator - [power]-2.0[to]-2.0
+2022-04-17 22:31:21.125 [main] INFO  calculator.Calculator - [result]-4.0
+2022-04-17 22:31:21.125 [main] INFO  calculator.Calculator - [power]-3.0[to]-3.0
+2022-04-17 22:31:21.126 [main] INFO  calculator.Calculator - [result]-27.0
+2022-04-17 22:31:21.126 [main] INFO  calculator.Calculator - [power]-2.0[to]-5.0
+2022-04-17 22:31:21.126 [main] INFO  calculator.Calculator - [result]-32.0
+2022-04-17 22:31:21.126 [main] INFO  calculator.Calculator - [power]-27.0[to]-1.0
+2022-04-17 22:31:21.126 [main] INFO  calculator.Calculator - [result]-27.0
+2022-04-17 22:31:21.126 [main] INFO  calculator.Calculator - [power]-32.0[to]-1.0
+2022-04-17 22:31:21.126 [main] INFO  calculator.Calculator - [result]-32.0
+2022-04-17 22:31:21.127 [main] INFO  calculator.Calculator - [Naturallog ]-4.0
+2022-04-17 22:31:21.127 [main] INFO  calculator.Calculator - [result]-1.3862943611198906
+2022-04-17 22:31:21.127 [main] INFO  calculator.Calculator - [Naturallog ]-5.0
+2022-04-17 22:31:21.127 [main] INFO  calculator.Calculator - [result]-1.6094379124341003
+2022-04-17 22:31:21.127 [main] INFO  calculator.Calculator - [Naturallog ]-7.0
+2022-04-17 22:31:21.127 [main] INFO  calculator.Calculator - [result]-1.9459101490553132
+2022-04-17 22:31:21.128 [main] INFO  calculator.Calculator - [Naturallog ]-8.0
+2022-04-17 22:31:21.128 [main] INFO  calculator.Calculator - [result]-2.0794415416798357
+2022-04-17 22:31:28.490 [main] INFO  calculator.Calculator - [factorial]-7.0
+2022-04-17 22:31:28.492 [main] INFO  calculator.Calculator - [result]-5040.0
+2022-04-17 22:31:28.492 [main] INFO  calculator.Calculator - [factorial]-4.0
+2022-04-17 22:31:28.492 [main] INFO  calculator.Calculator - [result]-24.0
+2022-04-17 22:31:28.492 [main] INFO  calculator.Calculator - [factorial]-3.0
+2022-04-17 22:31:28.492 [main] INFO  calculator.Calculator - [result]-6.0
+2022-04-17 22:31:28.493 [main] INFO  calculator.Calculator - [factorial]-6.0
+2022-04-17 22:31:28.493 [main] INFO  calculator.Calculator - [result]-720.0
+2022-04-17 22:31:28.493 [main] INFO  calculator.Calculator - [squareroot]-9.0
+2022-04-17 22:31:28.493 [main] INFO  calculator.Calculator - [result]-3.0
+2022-04-17 22:31:28.494 [main] INFO  calculator.Calculator - [squareroot]-121.0
+2022-04-17 22:31:28.494 [main] INFO  calculator.Calculator - [result]-11.0
+2022-04-17 22:31:28.494 [main] INFO  calculator.Calculator - [squareroot]-16.0
+2022-04-17 22:31:28.494 [main] INFO  calculator.Calculator - [result]-4.0
+2022-04-17 22:31:28.494 [main] INFO  calculator.Calculator - [squareroot]-25.0
+2022-04-17 22:31:28.494 [main] INFO  calculator.Calculator - [result]-5.0
+2022-04-17 22:31:28.495 [main] INFO  calculator.Calculator - [squareroot]-7.0
+2022-04-17 22:31:28.495 [main] INFO  calculator.Calculator - [result]-2.6457513110645907
+2022-04-17 22:31:28.495 [main] INFO  calculator.Calculator - [squareroot]-4.0
+2022-04-17 22:31:28.495 [main] INFO  calculator.Calculator - [result]-2.0
+2022-04-17 22:31:28.495 [main] INFO  calculator.Calculator - [squareroot]-5.0
+2022-04-17 22:31:28.495 [main] INFO  calculator.Calculator - [result]-2.23606797749979
+2022-04-17 22:31:28.495 [main] INFO  calculator.Calculator - [squareroot]-6.0
+2022-04-17 22:31:28.495 [main] INFO  calculator.Calculator - [result]-2.449489742783178
+2022-04-17 22:31:28.496 [main] INFO  calculator.Calculator - [Naturallog ]-1.0
+2022-04-17 22:31:28.496 [main] INFO  calculator.Calculator - [result]-0.0
+2022-04-17 22:31:28.496 [main] INFO  calculator.Calculator - [factorial]-6.0
+2022-04-17 22:31:28.496 [main] INFO  calculator.Calculator - [result]-720.0
+2022-04-17 22:31:28.496 [main] INFO  calculator.Calculator - [factorial]-3.0
+2022-04-17 22:31:28.496 [main] INFO  calculator.Calculator - [result]-6.0
+2022-04-17 22:31:28.496 [main] INFO  calculator.Calculator - [factorial]-2.0
+2022-04-17 22:31:28.497 [main] INFO  calculator.Calculator - [result]-2.0
+2022-04-17 22:31:28.497 [main] INFO  calculator.Calculator - [factorial]-4.0
+2022-04-17 22:31:28.497 [main] INFO  calculator.Calculator - [result]-24.0
+2022-04-17 22:31:28.497 [main] INFO  calculator.Calculator - [power]-3.0[to]-3.0
+2022-04-17 22:31:28.497 [main] INFO  calculator.Calculator - [result]-27.0
+2022-04-17 22:31:28.497 [main] INFO  calculator.Calculator - [power]-2.0[to]-5.0
+2022-04-17 22:31:28.497 [main] INFO  calculator.Calculator - [result]-32.0
+2022-04-17 22:31:28.498 [main] INFO  calculator.Calculator - [power]-3.0[to]-1.0
+2022-04-17 22:31:28.498 [main] INFO  calculator.Calculator - [result]-3.0
+2022-04-17 22:31:28.498 [main] INFO  calculator.Calculator - [power]-2.0[to]-2.0
+2022-04-17 22:31:28.498 [main] INFO  calculator.Calculator - [result]-4.0
+2022-04-17 22:31:28.498 [main] INFO  calculator.Calculator - [power]-3.0[to]-3.0
+2022-04-17 22:31:28.498 [main] INFO  calculator.Calculator - [result]-27.0
+2022-04-17 22:31:28.498 [main] INFO  calculator.Calculator - [power]-2.0[to]-5.0
+2022-04-17 22:31:28.499 [main] INFO  calculator.Calculator - [result]-32.0
+2022-04-17 22:31:28.499 [main] INFO  calculator.Calculator - [power]-27.0[to]-1.0
+2022-04-17 22:31:28.499 [main] INFO  calculator.Calculator - [result]-27.0
+2022-04-17 22:31:28.499 [main] INFO  calculator.Calculator - [power]-32.0[to]-1.0
+2022-04-17 22:31:28.499 [main] INFO  calculator.Calculator - [result]-32.0
+2022-04-17 22:31:28.499 [main] INFO  calculator.Calculator - [Naturallog ]-4.0
+2022-04-17 22:31:28.499 [main] INFO  calculator.Calculator - [result]-1.3862943611198906
+2022-04-17 22:31:28.499 [main] INFO  calculator.Calculator - [Naturallog ]-5.0
+2022-04-17 22:31:28.499 [main] INFO  calculator.Calculator - [result]-1.6094379124341003
+2022-04-17 22:31:28.500 [main] INFO  calculator.Calculator - [Naturallog ]-7.0
+2022-04-17 22:31:28.500 [main] INFO  calculator.Calculator - [result]-1.9459101490553132
+2022-04-17 22:31:28.500 [main] INFO  calculator.Calculator - [Naturallog ]-8.0
+2022-04-17 22:31:28.500 [main] INFO  calculator.Calculator - [result]-2.0794415416798357
